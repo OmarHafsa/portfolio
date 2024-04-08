@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6f0ce05b.css",
-    "main.js": "/portfolio/static/js/main.b46e31bd.js",
+    "main.js": "/portfolio/static/js/main.c491afc5.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Gumela_Regular.otf": "/portfolio/static/media/Gumela_Regular.0ae83c6988a536716eb4.otf",
     "index.html": "/portfolio/index.html",
     "main.6f0ce05b.css.map": "/portfolio/static/css/main.6f0ce05b.css.map",
-    "main.b46e31bd.js.map": "/portfolio/static/js/main.b46e31bd.js.map",
+    "main.c491afc5.js.map": "/portfolio/static/js/main.c491afc5.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f0ce05b.css",
-    "static/js/main.b46e31bd.js"
+    "static/js/main.c491afc5.js"
   ]
 }
