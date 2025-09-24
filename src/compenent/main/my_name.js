@@ -6,7 +6,7 @@ export default function my_name(){
              <div className="left">
                 <h1>Hy! I am</h1>
                 <h1 className="name">Hafsa Omar</h1>
-                <p>I am a computer science student in the second year i can create website using html, Css, Js and React. and i have the ability to create mobile application using dart And I like to learn new techniques and skills .</p>
+                <p>I am a Master’s student holding a Bachelor’s degree in Computer Systems, passionate about digital technology and web development. Skilled in managing and animating social media pages as well as technical expertise in frontend development (HTML, CSS, JavaScript, React…). Creative, organized, and results-oriented, I combine digital communication and technical know-how to design attractive solutions and optimize online visibility.</p>
                 <button>About me</button>
                 <div className="icons">
                   <a href="https://github.com/OmarHafsa">
